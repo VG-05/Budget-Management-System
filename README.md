@@ -1,11 +1,6 @@
 # Budget-Management-System
 This command-line app helps simplify the user’s budgeting system and helps them keep a track of their expenses and save their money.
 
-# Acknowledgements
-
-In the accomplishment of this project successfully, many people have best owned upon me their support and I would like to take this time to thank all those concerned with this project.
-Firstly, I would like to thank our principal **Ms. Vandana Marwaha** and computer science teacher **Ms. Daliya Ma’am** for this great opportunity.
-I would also like to thank **Rohan** and **Midhun** for the completion of this project.
 
 # Screenshots
 
@@ -56,10 +51,3 @@ Deleting “Clothing”:
 Displaying all the budget categories names:
 
 ![Displaying all the budget categories names](https://github.com/VG-05/Budget-Management-System/assets/136686473/dbe3ae02-a626-427c-8058-c9cab472b31a)
-
-# Prerequisites
-
-- Python
-- MySQL
-- mysql-connector-python using "pip install mysql-connector-python"
-
